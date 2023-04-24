@@ -9,10 +9,17 @@ Assignment-1 and Assignment-2 are both in the same notebook. The notebook starts
 Installations of Packages (Assuming Python and Pip are already installed):
 
 pip install pandas
+
 pip install numpy
+
 pip install matplotlib
+
 pip install seaborn
+
 pip install tqdm
+
 pip install scikit-learn
+
 pip install xgboost
+
 pip install tensorflow
