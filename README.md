@@ -1,6 +1,9 @@
 # stress_detection for Nurses
 Assignment for CE888-7-SP : Data Science and Decision Making
 
+Emre GOL
+Registration Number: 2200883
+
 The link of the dataset: 
 https://drive.google.com/file/d/1gnCNRGvZv4TQAZ62UuyRcDrKw7IWa9h6/view?usp=sharing
 
